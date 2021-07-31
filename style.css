@@ -378,6 +378,7 @@ nav.show div.icon-close {
 }
 
 #login form input{
+  text-align:center;
   border:none;
   outline:none;
   padding:.7rem;
@@ -387,7 +388,6 @@ nav.show div.icon-close {
   border-bottom:2px solid var(--base-color-alt);
 }
 #login .form-create input{
-  text-align:center;
   padding:.7rem;
   margin-left:1rem;
   width:20rem;
